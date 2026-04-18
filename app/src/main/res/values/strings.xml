@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firebill</string>
+
+    <!-- Main -->
+    <string name="no_bills">No bills yet. Tap + to add one.</string>
+    <string name="add_bill">Add bill</string>
+    <string name="pending_uploads">%d pending upload(s)</string>
+    <string name="refresh">Refresh</string>
+    <string name="settings">Settings</string>
+
+    <!-- Bill states -->
+    <string name="exported">Exported</string>
+    <string name="not_exported">Not exported</string>
+    <string name="unknown_vendor">Unknown vendor</string>
+
+    <!-- Delete -->
+    <string name="delete_bill">Delete bill</string>
+    <string name="delete_bill_confirm">Delete bill from \'%s\'?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Capture -->
+    <string name="capture_bill">Capture bill</string>
+    <string name="take_photo">Camera</string>
+    <string name="choose_gallery">Gallery</string>
+    <string name="upload_bill">Upload bill</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="bill_image_preview">Bill image preview</string>
+    <string name="upload_success">Bill uploaded successfully!</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="queued_for_upload">Queued for upload when online</string>
+    <string name="error_reading_file">Error reading image file</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+    <string name="storage_permission_denied">Storage permission denied</string>
+
+    <!-- Bill Detail -->
+    <string name="bill_details">Bill Details</string>
+    <string name="bill_image">Bill image</string>
+    <string name="vendor">Vendor</string>
+    <string name="bill_date">Bill date</string>
+    <string name="items">Items</string>
+    <string name="add_item">Add item</string>
+    <string name="item_description">Description</string>
+    <string name="price">Price</string>
+    <string name="remove_item">Remove item</string>
+    <string name="save_changes">Save</string>
+    <string name="saved_successfully">Saved successfully!</string>
+    <string name="export_to_firefly">Export to Firefly III</string>
+    <string name="view_transaction">View transaction</string>
+
+    <!-- Export -->
+    <string name="export_bill">Export Bill</string>
+    <string name="export_bill_title">Export: %s</string>
+    <string name="source_account">Source Account</string>
+    <string name="bill_items">Bill Items</string>
+    <string name="category">Category</string>
+    <string name="notes">Notes</string>
+    <string name="export_success">Exported successfully!</string>
+    <string name="view_in_firefly">View in Firefly III</string>
+    <string name="error_no_options">Export options not loaded yet</string>
+    <string name="error_select_account">Please select an account</string>
+
+    <!-- Settings -->
+    <string name="firebill_server">Firebill Server</string>
+    <string name="server_url_hint">http://192.168.1.100:5000</string>
+    <string name="firefly_iii_settings">Firefly III Settings</string>
+    <string name="firefly_url_hint">Firefly III URL</string>
+    <string name="firefly_token_hint">Personal Access Token</string>
+    <string name="save_settings">Save</string>
+    <string name="test_connection">Test Connection</string>
+    <string name="connection_success">✓ Connected successfully!</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="connection_error">Connection error: %s</string>
+    <string name="settings_saved">Settings saved!</string>
+    <string name="server_url_saved">Server URL saved!</string>
+    <string name="save_failed">Save failed</string>
+    <string name="error_url_required">Server URL is required</string>
+</resources>
