@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple fire/bill icon in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C54,20 42,38 42,50 C42,57.732 47.268,64 54,64 C60.732,64 66,57.732 66,50 C66,38 54,20 54,20 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,72 L72,72 L72,88 L36,88 Z" />
+    <path
+        android:fillColor="#FF6200EE"
+        android:pathData="M40,76 L68,76 L68,84 L40,84 Z" />
+</vector>
